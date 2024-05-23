@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python, rust, c, java**
 
-- 📫 How to reach me **discord: rudyyyom**
+- 📫 How to reach me **discord: https://discord.gg/y9vvdUXtMR**
 
 - ⚡ Fun fact **sometimes I have stupid ideas for programs**
 
