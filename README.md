@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **python, rust, c, java**
 
-- 📫 How to reach me **discord: rudyyyom**
+- 📫 How to reach me **discord: _rudyrudy**
 
 - ⚡ Fun fact **sometimes I have stupid ideas for programs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/y9vvdUXtMR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rudyyyom" height="30" width="40" /></a>
+<a href="https://discord.com/invite/gDfbhUSc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rudyyyom" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
